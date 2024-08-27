@@ -1,0 +1,1 @@
+ALTER TABLE your_table_name RENAME COLUMN "urf-code" TO urf_code;
